@@ -1,0 +1,195 @@
+/* to remove the default CSS applied by the Browser  */
+*
+{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+/* CSS for Header Section */
+.header
+{
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  background: rgb(2,0,36);
+background:#3FC636;
+}
+.header img
+{
+  width: 150px;
+  height: 150px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+h1
+{
+  font-family: Yomogi,cursive;
+  font-size: 60px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+}
+.header h1 a:hover
+{
+  color:white;
+}
+/*CSS for Social Icons*/
+.social-icons
+{
+display:inline-block;
+  font-size: 20px;
+margin:30px;
+}
+/* CSS for menu bar */
+.menu
+{
+  list-style: none;
+  background-color:#1D5C24;
+}
+.menu li
+{
+display: inline-block;
+  padding: 15px ;
+}
+.menu li a
+{
+  text-decoration: none;
+  margin: 10px;
+  font-size: 20px;
+  color: #fff;
+}
+.menu li a:hover
+{
+  text-decoration: underline;
+}
+.logo
+{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-left: 40px;
+}
+
+h1.heading
+{
+  display: inline-block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #aaddff;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: left;
+  border-left: 2px solid green;
+  margin-left: 10px;
+}
+img
+{
+  width: 800px;
+  height: 300px;
+ background-size:center;
+}
+/* Body Section */
+.row
+{
+  display: flex;
+}
+.row .column1
+{
+  width: 50%;
+  background-color: #AFACAC;
+  padding: 10px;
+}
+.row .column2
+{
+  width: 50%;
+  background-color: #D1D2D3;
+  padding: 10px;
+}
+.row .column3
+{
+  width:50%;
+  background-color:#AFACAC;
+  padding: 10px;
+}
+
+
+.course_items
+{
+  list-style-type:none;
+}
+
+.course_items li
+{
+  padding: 20px;
+}
+
+.course_items li a
+{
+  text-decoration:inherit;
+  font-size: 30px;
+  font-weight: 'Noto Serif',serif;
+}
+.course_items li a:hover
+{
+  text-decoration:inherit;
+  background-color: #f1f1f1;
+}
+
+/* css for social links */
+.social-links
+{
+  font-size: 30px;
+  padding: 20px;
+}
+.column3 a
+{
+  font size: 20px;
+  font-family: 'Yomogi,cursive','monospace','sans-serif','serif';
+}
+img
+{
+  background-color:#3F6FD5;
+  width: 400px;
+  height: 200px;
+}
+img
+{
+  background-color:#3F6FD5;
+  width: 400px;
+  height: 250px;
+}
+/*CSS for footer section*/
+.column
+{
+  margin: 40px;
+  padding: 40px;
+ background-color:#B6C7D8
+}
+.courses li a
+{
+  text-decoration:inherit;
+  font-size:20px;
+  font-weight: 'Noto Serif',serif;
+}
+div {
+  column-width: 250px;
+}
+.column
+{
+  margin: 40px;
+  padding: 40px;
+background-color:#B6C7D8
+}
+div {
+  column-width: 250px;
+}
+.column
+{
+  margin: 40px;
+  padding: 40px;
+
+}
+div {
+  column-width: 250px;
+}
